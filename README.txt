@@ -3,7 +3,7 @@ Steps to be followed to access the document
 1. Upload the .ipynb file into colab
 
 2. Add the following keys in the secrets section in colab
-LLM_CERT_PATH: /content/vm06-ca.crt 
+CA_CERT_PATH: /content/vm06-ca.crt 
 LLM_BASE_URL: https://103.42.50.41:1032/v1 
 LLM_API_KEY: sk--lir-paKzfdCFyPGcpS-b9btjQMYB-r0UM18fpsu9co 
 LLM_MODEL: Qwen/Qwen3-8B 
